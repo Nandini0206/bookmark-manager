@@ -1,3 +1,4 @@
+
 feature 'View bookmarks' do
   scenario 'visit bookmark page' do
     visit '/bookmarks'
