@@ -8,4 +8,4 @@ So that I can view the list of bookmarks.
 I need a list of bookmarks
 ```
 
-<img width="187" alt="Diagram of Domain Model" src="https://raw.githubusercontent.com/Nandini0206/bookmark-manager/master/Bookmark%20list%20-%20model.jpg">
+<img alt="Diagram of Domain Model" src="https://raw.githubusercontent.com/Nandini0206/bookmark-manager/master/Bookmark%20list%20-%20model.jpg">
