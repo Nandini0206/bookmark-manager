@@ -1,7 +1,6 @@
 # Bookmark Manager
 
 ## User Stories
--------
 ```
 As the User
 So that I can view the list of bookmarks.
